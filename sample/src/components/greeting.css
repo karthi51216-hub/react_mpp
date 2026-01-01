@@ -1,0 +1,23 @@
+
+
+.greeting {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin: 20px;
+}
+.greeting:hover {
+    color: #007BFF;
+}
+.greeting .highlight {
+    font-weight: bold;
+    color: #FF5733;
+}
+.greeting .highlight:hover {
+    color: #C70039;
+}
+.greeting .subtitle {
+    font-size: 18px;
+    color: #666;
+    margin-top: 10px;
+}

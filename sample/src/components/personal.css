@@ -1,0 +1,18 @@
+.bio{
+    width: 100px;
+    padding: 20px;
+    border-radius: 4px;
+    background-color: violet;
+    text-align: center;
+}
+.bio h2{
+    color: blue;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.bio-text{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+
+}
