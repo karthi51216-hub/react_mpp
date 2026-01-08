@@ -1,0 +1,32 @@
+/* Container style */
+.student-list {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #f9f9f9;
+}
+
+/* Heading */
+.student-list h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+/* List style */
+.student-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Each item */
+.student-list li {
+  margin: 6px 0;
+  font-size: 16px;
+}
+
+/* Highlighted student (marks > 50) */
+.highlight {
+  font-weight: bold;
+  color: green;
+}
